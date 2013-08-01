@@ -7,9 +7,9 @@ int main (string[] args) {
 	int rc = 0;
 	ClientFlag cflag=0;
 	string     host="127.0.0.1";
-	string     user="agus";
-	string     pwd="qwerty";
-	string     database="db_ecc3";
+	string     user="user";
+	string     pwd="password";
+	string     database="demo";
 	int        port= 3306;
 	string     socket= null;
 
