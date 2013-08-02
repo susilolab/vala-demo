@@ -1,0 +1,13 @@
+--2012-05-29 08:18:43--  http://epris.googlecode.com/files/epris-0.2.tar.gz
+Resolving epris.googlecode.com... 209.85.175.82
+Connecting to epris.googlecode.com|209.85.175.82|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 145862 (142K) [application/empty]
+Saving to: `epris-0.2.tar.gz'
+
+     0K .......... .......... .......... .......... .......... 35% 29.0K 3s
+    50K .......... .......... .......... .......... .......... 70% 72.3K 1s
+   100K .......... .......... .......... .......... ..        100% 44.0K=3.4s
+
+2012-05-29 08:18:47 (42.1 KB/s) - `epris-0.2.tar.gz' saved [145862/145862]
+

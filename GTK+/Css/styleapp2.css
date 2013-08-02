@@ -1,0 +1,8 @@
+GtkWindow {
+	background-color: #d3d3d3;	
+}
+
+GtkButton, GtkEntry {
+	color: #ff0000;
+	font: Sans 12
+}

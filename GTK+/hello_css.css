@@ -1,0 +1,10 @@
+GtkWindow
+{
+	background-color: #00eeff;
+}
+
+GtkEntry, GtkLabel
+{
+	margin: 20px 20px;
+	color: red;
+}
