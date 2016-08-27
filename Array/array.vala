@@ -9,9 +9,6 @@ void main () {
 	string[] nama = {
 		"Agus",
 		"Susilo",
-		"Novi",
-		"Vita",
-		"Permata sari"
 	};
 
 	foreach(var i in angka) {

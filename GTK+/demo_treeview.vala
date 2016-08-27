@@ -15,8 +15,8 @@ class TreeViewSimpleListStore: Gtk.ApplicationWindow
 {
 	Gtk.Label label;
 	PhoneBookEntry[] phonebook = {
-		new PhoneBookEntry("Agus", "Susilo", "081-715313"),
-		new PhoneBookEntry("Novi", "Permata Sari", "081-715313")
+		new PhoneBookEntry("Ali", "Baba", "081-715313"),
+		new PhoneBookEntry("Dinda", "Sari", "081-715313")
 	};
 
 	enum Column {
